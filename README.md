@@ -1,1 +1,1 @@
-https://github.com/adliss1997/slozhno-sosredotochitsya-ad.git
+https://github.com/EthelTinei/slozhno-sosredotochitsya-ad-mine.git
